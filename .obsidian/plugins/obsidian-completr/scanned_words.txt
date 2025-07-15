@@ -26,6 +26,7 @@ list
 item
 is
 Second
+SIBIRIO
 Third
 This
 Thermodinamics
@@ -47,11 +48,14 @@ MIPT
 Mechanics
 MaksvellDistribution
 MKT
+Matlab
+Mathcad
 of
 or
 own
 obsidian
 often
+ontent
 something
 some
 simple
@@ -78,8 +82,11 @@ Programms
 PhysX
 Programming
 Projects
+Programs
 particle
 project
 game
+github
 Content
 README
+RockecScience

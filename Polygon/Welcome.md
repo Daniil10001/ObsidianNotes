@@ -1,3 +1,4 @@
+#Polygon 
 This is your new *vault*.
 
 Make a note of something, [[Test pointer]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
@@ -5,10 +6,3 @@ Make a note of something, [[Test pointer]], or try [the Importer](https://help.o
 When you're ready, delete this note and make the vault your own.
 
 # Heding1
-
-
----
-tag: #recipe
-- recipe
-- #cooking
----
