@@ -73,8 +73,7 @@
               "title": "Welcome"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c0b9097d32fd5eb9",
@@ -253,10 +252,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f2b8a98d3b4cf997",
+  "active": "a9208fc4c54dfd2a",
   "lastOpenFiles": [
-    "README.md",
     "Projects/Projects.md",
+    "README.md",
     "Projects",
     "Programs/PhysX.md",
     "Programs/FACTORYO.md",
