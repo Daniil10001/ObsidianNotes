@@ -57,26 +57,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programs/FACTORYO.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FACTORYO"
-            }
-          },
-          {
-            "id": "2f2d2be1c64d051c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,15 +213,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "57ed6c9c4e56e939",
+  "active": "f6dbac1b92ae86f8",
   "lastOpenFiles": [
-    "().md",
+    "Programs/FACTORYO.md",
     "README.md",
+    "().md",
     "Projects/README.md",
     "Programs/README.md",
     "Programs/PhysX.md",
     "Polygon/README.md",
-    "Programs/FACTORYO.md",
     "Projects",
     "Polygon/Welcome.md",
     "Polygon/Test pointer.md",
