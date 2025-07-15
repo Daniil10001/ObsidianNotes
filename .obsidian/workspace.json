@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Projects/Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Projects"
             }
           },
           {
@@ -254,14 +254,14 @@
   },
   "active": "a9208fc4c54dfd2a",
   "lastOpenFiles": [
+    "Programs/PhysX.md",
+    "Programs/Programs.md",
+    "Programs/FACTORYO.md",
     "Projects/Projects.md",
     "README.md",
     "Projects",
-    "Programs/PhysX.md",
-    "Programs/FACTORYO.md",
     "Polygon/Welcome.md",
     "Polygon/Test pointer.md",
-    "Programs/Programs.md",
     "Polygon/Polygon.md",
     "Polygon/H.md",
     "Programs",
