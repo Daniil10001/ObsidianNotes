@@ -1,3 +1,11 @@
 [
-  "github-sync"
+  "github-sync",
+  "latex-math",
+  "editing-toolbar",
+  "obsidian-completr",
+  "mathlinks",
+  "dataview",
+  "quick-preview",
+  "math-booster",
+  "obsidian-tikzjax"
 ]
